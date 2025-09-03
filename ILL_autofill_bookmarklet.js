@@ -1,0 +1,9 @@
+javascript:(function(){ 
+  document.querySelector("#edit-firstname").value="YOURNAME";
+  document.querySelector("#edit-surname").value="YOURSURNAME";
+  document.querySelector("#edit-campus-id").value="YOURID";
+  document.querySelector("#edit-deliveryaddress").value="YOUREMAIL";
+  document.querySelector("#edit-patron-type").value="Faculty/Staff";
+  //document.querySelector("#edit-department").value="Library, Robertson";
+  document.querySelector("#edit-certify").checked=true;
+})();
