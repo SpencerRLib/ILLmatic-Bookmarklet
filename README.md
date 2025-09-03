@@ -30,6 +30,6 @@ This bookmarklet automatically fills out the Interlibrary Loan (ILL) request for
 
 ## Notes
 
-- This bookmarklet is tailored for a specific user. Update the values in the script if you need to use it for someone else.
+- This bookmarklet needs to be tailored for a specific user. Update the values in the script if you plan on using it.
 
 ---
